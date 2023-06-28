@@ -1,0 +1,8 @@
+[submodule "lib/v3-core"]
+	path = lib/v3-core
+	url = git@github.com:AntonD3/v3-core.git
+	branch = v1.0.0-zksync-era
+[submodule "lib/v3-periphery"]
+	path = lib/v3-periphery
+	url = git@github.com:AntonD3/v3-periphery.git
+	branch = v1.1.1-zksync-era
